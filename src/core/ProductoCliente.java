@@ -9,5 +9,8 @@ package core;
  * @author sviei
  */
 public class ProductoCliente {
-    
+    private boolean estadoAprobado;
+    private int nivelAvance;
+    private Cliente cliente;
+    private Curso curso;
 }

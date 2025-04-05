@@ -9,5 +9,6 @@ package core;
  * @author sviei
  */
 public class PlanCliente {
-    
+    private Cliente cliente ;
+    private Plan plan ; 
 }

@@ -4,10 +4,13 @@
  */
 package core;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author sviei
  */
 public class Plan {
-    
+    private float valorMaximo;
+    private ArrayList<PlanCliente> planes;
 }
